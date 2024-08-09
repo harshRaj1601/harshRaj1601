@@ -1,6 +1,6 @@
 # Yo 👋, I'm Harsh!
 
-I am a student who is currently learning as Python Developer, Data Science, Artificial Intelligence/Machine Learning for my career. I got motivated from era of AI, launched generative AI so I started learning Artificial intelligence. <br><br> I also have a knowledge of Web Development, PHP Laravel framework, Android Development in Java, but Python is my career.
+I am a student who is currently learning as Python Developer, Data Science, Artificial Intelligence/Machine Learning for my career. I got motivated from era of AI, launched generative AI so I started learning Artificial intelligence. <br><br> I also have a knowledge of Web Development, PHP Laravel framework, Android Development in Java, but Python is my career.<br><br> Best thing is that, I love Maths😂. 
 
 <br/>
 
